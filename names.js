@@ -1,9 +1,8 @@
 function namesF(firstName, lastName) {
-    const names = {
+    return {
         firstName,
         lastName
     }
-    return names
 }
 
 /* export default namesF */
