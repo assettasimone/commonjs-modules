@@ -6,4 +6,6 @@ function namesF(firstName, lastName) {
     return names
 }
 
-export default namesF
+/* export default namesF */
+
+module.exports = namesF;

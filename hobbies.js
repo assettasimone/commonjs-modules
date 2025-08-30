@@ -5,4 +5,6 @@ function hobbiesF(hobbyOne, hobbyTwo, hobbyThree) {
 
 }
 
-export default hobbiesF
+/* export default hobbiesF */
+
+module.exports = hobbiesF;

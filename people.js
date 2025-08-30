@@ -1,6 +1,9 @@
-import hobbiesF from "./hobbies.js";
+/* import hobbiesF from "./hobbies.js";
 
-import namesF from "./names.js"
+import namesF from "./names.js" */
+
+const hobbiesF = require('./hobbies.js')
+const namesF = require('./names.js')
 
 function peoplesF() {
     const names = namesF("Simone", "Assetta");
